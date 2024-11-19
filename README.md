@@ -17,9 +17,10 @@ How to Run the Project Clone the Repository: bash Copy code git clone https://gi
 Potential Enhancements Add role-based access control (e.g., admin and regular users). Introduce notifications or reminders for task deadlines. Enhance the UI/UX with animations and additional customization options. Integrate a calendar view for task management. Implement unit and integration tests for backend APIs and frontend components.
 
 
-![Screenshot 2024-11-19 023407](https://github.com/user-attachments/assets/ce149ed8-90f0-4228-9619-9b295e4d8ae4)
-![Screenshot 2024-11-19 023255](https://github.com/user-attachments/assets/230e93a4-dc68-4e7b-ba23-5de9d91463ed)
-![Screenshot 2024-11-19 023837](https://github.com/user-attachments/assets/14d0b765-574b-41e2-a544-d1b80c280bc8)
-![Screenshot 2024-11-19 023754](https://github.com/user-attachments/assets/effe6a64-416d-4ca1-bddd-ecd340dcf6f6)
-![Screenshot 2024-11-19 023430](https://github.com/user-attachments/assets/ba3a533b-9626-4629-a160-72cef7e81fe5)
+![Screenshot 2024-11-19 023407](https://github.com/user-attachments/assets/1d21cb94-da61-46c7-90f0-c441214d3411)
+![Screenshot 2024-11-19 023255](https://github.com/user-attachments/assets/bd75f982-228a-4ea9-a093-879818e7de83)
+![Screenshot 2024-11-19 023837](https://github.com/user-attachments/assets/7e45c153-bf73-4e1f-95be-8feac3b5f7a9)
+![Screenshot 2024-11-19 023810](https://github.com/user-attachments/assets/70d8fcb5-257b-4007-83c4-907c258c2861)
+![Screenshot 2024-11-19 023430](https://github.com/user-attachments/assets/8b7a3957-9855-4a33-ac81-a6c68983c99d)
+
 
